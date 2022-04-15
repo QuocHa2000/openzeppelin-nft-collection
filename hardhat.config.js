@@ -1,4 +1,6 @@
 require("@nomiclabs/hardhat-waffle");
+require("@nomiclabs/hardhat-etherscan");
+
 require("dotenv").config();
 
 task("accounts", "Prints the list of accounts", async (taskArgs, hre) => {
@@ -29,7 +31,7 @@ module.exports = {
     },
   },
   etherscan: {
-    apiKey: "3F4DUIAD9JRBEC7HG989DM76IX94SQBWZA",
+    apiKey: process.env.MATIC_API_KEY,
   },
   solidity: {
     version: "0.8.13",
