@@ -1,15 +1,27 @@
 {
-  "name": "Tree Collection",
-  "description": "Quoc's tree collection",
-  "image": "https://ipfs.io/ipfs/QmShMuo8JNHmX7y7YVQEKyqyT2pTqtWQMydzM4pQ7Q8K4r",
+  "name": "QuanIT logo",
+  "description": "This is my first logo for my youtube channel",
+  "image": "https://ipfs.io/ipfs/QmXHStpLSKJdd1s7mQhkvabaUHDCr6vBq5AyvBDZfvgTDd",
   "attributes": [
     {
-      "trait_type": "power",
-      "value": 7
+      "trait_type": "Speed",
+      "value": 6,
+      "max_value": 10
     },
     {
-      "trait_type": "speed",
-      "value": 6
+      "trait_type": "control",
+      "value": 9,
+      "max_value": 10
+    },
+    {
+      "trait_type": "acceleration",
+      "value": 7,
+      "max_value": 10
+    },
+    {
+      "trait_type": "nitro",
+      "value": 2,
+      "max_value": 10
     }
   ]
 }

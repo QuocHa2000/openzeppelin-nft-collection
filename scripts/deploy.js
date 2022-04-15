@@ -9,7 +9,7 @@ async function main() {
   console.log("Deployed contract address : ", tree.address);
 
   await tree.mint(
-    "https://ipfs.io/ipfs/QmaiKAmd4uvp5je9Ca7dLskD2tmesQ9ucYdNPgRhx9VQhD"
+    "https://ipfs.io/ipfs/Qmey5MTLNmhmz8PRbUDZtXzRNYdZsi4nQgkM2Akzf4NmQC"
   );
 
   console.log("Oke !");
