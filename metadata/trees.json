@@ -1,0 +1,15 @@
+{
+  "name": "Tree Collection",
+  "description": "Quoc's tree collection",
+  "image": "https://ipfs.io/ipfs/QmShMuo8JNHmX7y7YVQEKyqyT2pTqtWQMydzM4pQ7Q8K4r",
+  "attributes": [
+    {
+      "trait_type": "power",
+      "value": 7
+    },
+    {
+      "trait_type": "speed",
+      "value": 6
+    }
+  ]
+}
